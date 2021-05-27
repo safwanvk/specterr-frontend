@@ -1,0 +1,50 @@
+.NavBar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #111;
+}
+
+.logo{
+  position: fixed;
+  left: 20px;
+  width: 80px;
+}
+
+
+.button2{
+  position: fixed;
+  right: 20px;
+  width: 80px;
+  height: 25px;
+  color: white;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  border-radius: 5px;
+
+  background-color: rgba(51, 51, 51, .5);
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.button2:hover{
+  color:white;
+  background-color:rgba(39, 35, 35, 0.5);
+}
+
+.anchor{
+  position: fixed;
+  right: 130px;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+
+}
+
+
+
