@@ -1,0 +1,25 @@
+.footer{
+    height: 400px;
+    color: white;
+    display: flex;
+}
+
+.navigation{
+    padding-top: 60px;
+    height: 190px;
+    padding-left: 170px;
+}
+
+
+.links{
+    padding-top: 50px;
+}
+
+.element1{
+    padding-top: 50px;
+}
+
+.contact{
+    padding-left: 48%;
+    padding-top: 60px;
+}
