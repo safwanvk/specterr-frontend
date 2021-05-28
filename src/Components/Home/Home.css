@@ -1,0 +1,49 @@
+.home{
+    background-image: url('https://specterr.b-cdn.net/bg-wave3.svg');
+    height: 350px;
+    color: white;
+    display: flex;
+    box-shadow: none;
+    border-top: medium none;
+    background-size: cover;
+}
+
+.text{
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+    max-width: 520px;
+
+}
+
+.but{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(177, 6, 6, 0.5);
+    cursor: pointer;
+    margin-right: 1rem;
+    margin-top: 3rem;
+    margin-left: 3rem;
+}
+
+.con{
+    padding-top: 100px;
+    height: 190px;
+    padding-left: 580px;
+}
+
+.vis-con{
+    background-image: url('https://specterr.b-cdn.net/bg-wave3.svg');
+    height: 350px;
+    color: white;
+    display: flex;
+    box-shadow: none;
+    border-top: medium none;
+    background-size: cover;
+}
