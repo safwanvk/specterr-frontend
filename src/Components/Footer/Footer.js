@@ -9,7 +9,7 @@ function Footer() {
                     <h3>Navigation</h3>
                     <div className="links">
                         <h5 className="element" href>Home</h5>
-                        <h5 className="element1" href>Music Visualizer</h5>
+                        <h5 className="element1" href>Music Equalizer</h5>
                     </div>
                 </div>
                 <div className="contact">
