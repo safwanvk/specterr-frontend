@@ -9,7 +9,8 @@ function ForgotPass() {
                     <h1 className="title-pass">Recover password</h1>
                     <input className="input" type="text" placeholder="Email Address*"></input>
 
-                    <button className="sign-but">Send reset link</button>
+                    <button className="sign-but">Send otp</button>
+                    {/* <small class="text-center p-3 mt-0">We will send a one time password to your registered phone number</small> */}
                     <button className="for-log">Log in</button>
                     <button className="for-new">Create new account</button>
                 </div>
