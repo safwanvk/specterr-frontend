@@ -1,0 +1,66 @@
+.sidebar{
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 200px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: rgba(37,37,37,.61); /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+}
+
+.side-icon{
+    padding-top: 10px;
+    height: 5%;
+    width: 200px;
+    background-color: rgba(37,37,37,.61);
+}
+
+.side-logo{
+    position: fixed;
+  left: 30px;
+  width: 130px;
+  cursor: pointer;
+}
+
+.side-icon:hover{
+    color:white;
+  background-color:rgba(94, 92, 92, 0.5);
+}
+
+.side-btn{
+    height: 10%;
+    width: 200px;
+    background-color: rgba(37,37,37,.61);
+    padding-left: 2rem;
+    padding-top: 0.9rem;
+}
+
+.side-btn-con{
+    display: flex;
+    height: 20%;
+    color: rgb(248, 72, 72);
+    outline: none;
+    border: 2px solid rgb(248, 72, 72); /* Green */
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(37,37,37,.61);
+    cursor: pointer;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+    width: 100px;
+}
+
+.h1{
+    font-size: 0.8rem;
+    padding-left: 10px;
+}
+
+.side-btn-con:hover{
+    color:white;
+  background-color:rgba(231, 74, 74, 0.5);
+}
