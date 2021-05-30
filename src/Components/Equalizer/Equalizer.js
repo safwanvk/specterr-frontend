@@ -6,7 +6,7 @@ function Equalizer() {
         <div>
             <div className="Banner-equ">
                 <video className="video-equ" autoPlay loop>
-                    <source src="https://specterr.b-cdn.net/specterr-landing.mp4" type="video/mp4"></source>
+                    <source src="https://specterr.b-cdn.net/specterr-lyrics-landing.mp4" type="video/mp4"></source>
                 </video>
                 <div className="content-equ">
                     <h1 className="title-equ">Music Equalizer</h1>

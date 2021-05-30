@@ -1,8 +1,8 @@
 .forgot{
     height: 670px;
-    background-color: black;
     padding-top: 140px;
     padding-left: 530px;
+    background-image: url('https://specterr.b-cdn.net/bg-wave2.svg');
 }
 
 .form{

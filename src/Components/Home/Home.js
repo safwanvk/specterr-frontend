@@ -16,7 +16,7 @@ function Home() {
             </div>
             <div class="vis-con">
                 <div className="vis-div">
-                    <img className="vis-img" src="https://mk0musicianwaveddwsx.kinstacdn.com/wp-content/uploads/2020/08/music-visualization.jpg" alt="" />
+                    <img className="vis-img" src="https://specterr.b-cdn.net/tn-eclipse.jpeg" alt="" />
                 </div>
                 <div className="vis-text">
                     <h1 className="text-title">Easy to use Online Editor</h1>
