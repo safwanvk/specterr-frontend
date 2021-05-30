@@ -1,0 +1,113 @@
+.signIn{
+    height: 670px;
+    background-color: black;
+    padding-top: 140px;
+    padding-left: 530px;
+}
+
+.form{
+    height: 360px;
+    width: 390px;
+    background-color: rgba(37,37,37,.61);
+}
+
+.title{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+.input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 330px;
+}
+
+*:focus {
+    outline: none;
+}
+
+
+.sec{
+    padding-top: 10px;
+}
+
+.check{
+    margin-left: 35px;
+    margin-top: 30px;
+}
+
+.check-div{
+    display: flex;
+}
+
+.terms{
+    font-size: 0.8rem;
+    margin-top: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+.u{
+    color: green;
+}
+
+.sign-but{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 10px;
+    padding-bottom: 0.5rem;
+    background-color: rgba(177, 6, 6, 0.5);
+    cursor: pointer;
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 330px;
+}
+
+.sign-but:hover{
+    color:white;
+    background-color: #520d0d;
+}
+
+.log-sign{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 10px;
+    padding-bottom: 0.5rem;
+    background-color: rgba(37,37,37,.61);
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 280px;
+}
+
+.log-for{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 10px;
+    padding-bottom: 0.5rem;
+    background-color: rgba(37,37,37,.61);
+    cursor: pointer;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 200px;
+}

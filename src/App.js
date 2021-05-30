@@ -3,7 +3,8 @@ import './App.css';
 import Footer from './Components/Footer/Footer';
 // import Home from './Components/Home/Home';
 import NavBar from './Components/NavBar/NavBar'
-import SignUp from './Components/SignUp/SignUp';
+import SignIn from './Components/SignIn/SignIn';
+// import SignUp from './Components/SignUp/SignUp';
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       <NavBar/>
       {/* <Home/> */}
       {/* <Equalizer/> */}
-      <SignUp/>
+      {/* <SignUp/> */}
+      <SignIn/>
       <Footer/>
     </div>
   );
