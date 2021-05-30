@@ -1,4 +1,4 @@
-.signUp{
+.forgot{
     height: 670px;
     background-color: black;
     padding-top: 140px;
@@ -13,10 +13,10 @@
     border-radius: 5px;
 }
 
-.title{
+.title-pass{
     text-align: center;
     color: white;
-    padding-top: 20px;
+    padding-top: 45px;
 }
 
 .input{
@@ -80,7 +80,7 @@
     background-color: #520d0d;
 }
 
-.sign-log{
+.for-log{
     color: white;
     outline: none;
     border: none;
@@ -92,8 +92,24 @@
     padding-bottom: 0.5rem;
     background-color: rgba(37,37,37,.61);
     cursor: pointer;
-    margin-left: 60px;
+    margin-left: 130px;
     margin-top: 20px;
-    width: 280px;
+    width: 120px;
 }
 
+.for-new{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 10px;
+    padding-bottom: 0.5rem;
+    background-color: rgba(37,37,37,.61);
+    cursor: pointer;
+    margin-left: 90px;
+    margin-top: 20px;
+    width: 200px;
+}

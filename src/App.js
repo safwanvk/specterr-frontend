@@ -1,9 +1,10 @@
 import './App.css';
 // import Equalizer from './Components/Equalizer/Equalizer';
 import Footer from './Components/Footer/Footer';
+import ForgotPass from './Components/ForgotPass/ForgotPass';
 // import Home from './Components/Home/Home';
 import NavBar from './Components/NavBar/NavBar'
-import SignIn from './Components/SignIn/SignIn';
+// import SignIn from './Components/SignIn/SignIn';
 // import SignUp from './Components/SignUp/SignUp';
 
 function App() {
@@ -14,7 +15,8 @@ function App() {
       {/* <Home/> */}
       {/* <Equalizer/> */}
       {/* <SignUp/> */}
-      <SignIn/>
+      {/* <SignIn/> */}
+      <ForgotPass/>
       <Footer/>
     </div>
   );
