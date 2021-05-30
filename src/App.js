@@ -1,10 +1,11 @@
 import './App.css';
 // import Equalizer from './Components/Equalizer/Equalizer';
 import Footer from './Components/Footer/Footer';
+import ChangePass from './Components/ForgotPassword/NewPass/NewPass';
 // import ForgotPass from './Components/ForgotPass/ForgotPass';
 // import Home from './Components/Home/Home';
 import NavBar from './Components/NavBar/NavBar'
-import Otp from './Components/ForgotPassword/Otp/Otp';
+// import Otp from './Components/ForgotPassword/Otp/Otp';
 // import SignIn from './Components/SignIn/SignIn';
 // import SignUp from './Components/SignUp/SignUp';
 
@@ -18,7 +19,8 @@ function App() {
       {/* <SignUp/> */}
       {/* <SignIn/> */}
       {/* <ForgotPass/> */}
-      <Otp/>
+      {/* <Otp/> */}
+      <ChangePass/>
       <Footer/>
     </div>
   );
