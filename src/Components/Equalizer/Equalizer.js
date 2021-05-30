@@ -20,10 +20,51 @@ function Equalizer() {
                     <h1 className="sub-title">Create your first video in less than 5 minutes. It's super easy!</h1>
                 </div>
                 <div className="process">
-                    <div>
+                    <div className="pro-sub">
+                        <div className="icon">
+                            <i className="fas fa-music music"></i>
+
+                        </div>
+                        <div className="process-text">
+                            <div className="process-text-title">
+                                <h1>1. Upload your audio</h1>
+                            </div>
+                            <div className="process-text-con">
+                                <h1>Upload a high quality MP3 or WAV file. Our systems will analyze the file, then you can view a live video preview featuring your audio. </h1>
+                            </div>
+                        </div>
                         
                     </div>
-
+                    <div className="pro-sub right">
+                        <div className="icon">
+                            <i className="fas fa-plus music"></i>
+                        </div>
+                        <div className="process-text">
+                            <div className="process-text-title">
+                                <h1>2. Equalizing</h1>
+                            </div>
+                            <div className="process-text-con">
+                                <h1>Equalizing music with really nice visualization like good old days. </h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="pro-sub-second right">
+                        <div className="icon">
+                            <i className="fas fa-video music"></i>
+                        </div>
+                        <div className="process-text">
+                            <div className="process-text-title">
+                                <h1>3. Export your video</h1>
+                            </div>
+                            <div className="process-text-con">
+                                <h1>Our servers will quickly render your video in HD and send it back to you. Download the file and you're done! </h1>
+                            </div>
+                        </div>
+                        
+                </div>
+                <div className="but-div">
+                    <button className="but-process">GET STARTED</button>
                 </div>
             </div>
         </div>
