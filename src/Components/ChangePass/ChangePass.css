@@ -1,0 +1,58 @@
+.otp{
+    height: 600px;
+    background-image: url('https://specterr.b-cdn.net/bg-wave2.svg');
+    padding-top: 190px;
+    padding-left: 630px;
+}
+
+.otp-form{
+    height: 300px;
+    width: 390px;
+    background-color: rgba(37,37,37,.61);
+    border: 2px solid rgba(37,37,37,.61);
+    border-radius: 5px;
+}
+
+.title-pass{
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+}
+
+.input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    color: white;
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 330px;
+}
+
+*:focus {
+    outline: none;
+}
+
+
+
+.otp-but{
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 10px;
+    padding-bottom: 0.5rem;
+    background-color: rgba(177, 6, 6, 0.5);
+    cursor: pointer;
+    margin-left: 35px;
+    margin-top: 50px;
+    width: 330px;
+}
+
+.otp-but:hover{
+    color:white;
+    background-color: #520d0d;
+}
