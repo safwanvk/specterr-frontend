@@ -1,6 +1,6 @@
 import './App.css';
 // import Equalizer from './Components/Equalizer/Equalizer';
-import Footer from './Components/Footer/Footer';
+// import Footer from './Components/Footer/Footer';
 // import ChangePass from './Components/ForgotPassword/NewPass/NewPass';
 // import ForgotPass from './Components/ForgotPass/ForgotPass';
 // import Home from './Components/Home/Home';

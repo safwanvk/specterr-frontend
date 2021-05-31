@@ -33,7 +33,7 @@
     width: 200px;
     background-color: rgba(37,37,37,.61);
     padding-left: 2rem;
-    padding-top: 0.9rem;
+    padding-top: 1rem;
 }
 
 .side-btn-con{
@@ -63,4 +63,56 @@
 .side-btn-con:hover{
     color:white;
   background-color:rgba(231, 74, 74, 0.5);
+}
+
+.side-links{
+  display: flex;
+  color: white;
+}
+
+.video-icon{
+  margin-left: 20px;
+  padding-top: 5px;
+}
+
+.h1-video{
+  font-size: 1rem;
+  padding-left: 30px;
+  padding-top: 3px;
+}
+
+.acc-icon{
+  margin-left: 15px;
+  color: white;
+  width: 25px;
+}
+
+.side-login{
+  margin-left: 20px;
+  margin-top: 430px;
+  padding-left: 1rem;
+}
+
+.side-btn-log{
+  display: flex;
+  height: 20%;
+  color:white;
+ /* Green */
+  font-weight: 700;
+  border-radius: 5px;
+  padding-left: 1rem;
+  padding-right: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: rgba(37,37,37,.61);
+  cursor: pointer;
+  margin-right: 2rem;
+  margin-top: 0.5rem;
+  width: 70px;
+}
+
+
+.side-btn-con:hover{
+  color:white;
+background-color:rgba(37,37,37,.61);
 }
