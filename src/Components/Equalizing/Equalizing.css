@@ -45,16 +45,15 @@
 }
 
 .upl-btn{
-    height: 10%;
-    width: 200px;
-    background-color: rgba(37,37,37,.61);
-    padding-left: 2rem;
-    padding-top: 1rem;
+    
+
+    padding-left: 8rem;
+    padding-top: 1.5rem;
 }
 
 .upl-btn-con{
     display: flex;
-    height: 30%;
+    height: 15px;
     color: rgb(224, 93, 93);
     outline: none;
     border: 2px solid rgb(224, 93, 93); /* Green */
@@ -68,15 +67,34 @@
     cursor: pointer;
     margin-right: 2rem;
     margin-top: 0.5rem;
-    width: 100px;
+    width: 125px;
 }
 
 .upl-h1{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     padding-left: 10px;
+
 }
 
 .upl-btn-con:hover{
   color:white;
   border: 2px solid rgb(248, 72, 72);
+}
+
+.steps2{
+
+    width: 40%;
+    margin-left: 400px;
+    display: flex;
+    color: white;
+    height: 30px;
+    margin-top: 90px;
+
+}
+
+.step-2{
+  border-radius: 20px;
+  width: 30px;
+  background-color: red;
+  border: none;
 }

@@ -16,12 +16,37 @@ function Equalizing() {
                     <h1 className="h1-audio1">Audio?</h1>
                     <div className="upl-btn">
                         <div className="upl-btn-con">
-                            <i className="fas fa-plus"></i>
-                            <h1 className="-upl-h1">New Video</h1>
+                            <i className="fas fa-music"></i>
+                            <h3 className="upl-h1">Upload Audio</h3>
                         </div>
                     </div>
                 </div>
-
+                <div className="steps2">
+                    <button className="step-2">
+                        2
+                    </button>
+                    <h1 className="h1-audio">Equalizing</h1>
+                </div>
+                <div className="steps">
+                    <vl className="vl"></vl>
+                    <h1 className="h1-audio1">Processing</h1>
+                </div>
+                <div className="steps2">
+                    <button className="step-2">
+                        2
+                    </button>
+                    <h1 className="h1-audio">Export</h1>
+                </div>
+                <div className="steps">
+                    <vl className="vl"></vl>
+                    <h1 className="h1-audio1">Video?</h1>
+                    <div className="upl-btn">
+                        <div className="upl-btn-con">
+                            <i className="fas fa-video"></i>
+                            <h3 className="upl-h1">Export Video</h3>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     )
