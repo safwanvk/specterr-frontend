@@ -48,7 +48,7 @@
 
 .button-equ:hover{
     color:white;
-    background-color:rgb(248, 72, 72);
+    border: 2px solid rgb(248, 72, 72);
 }
 
 .video-equ{

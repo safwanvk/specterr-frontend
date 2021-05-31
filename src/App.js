@@ -6,6 +6,7 @@ import './App.css';
 // import Home from './Components/Home/Home';
 // import NavBar from './Components/NavBar/NavBar'
 import SideBar from './Components/SideBar/SideBar';
+import Video from './Components/Video/Video';
 // import Otp from './Components/ForgotPassword/Otp/Otp';
 // import SignIn from './Components/SignIn/SignIn';
 // import SignUp from './Components/SignUp/SignUp';
@@ -13,7 +14,6 @@ import SideBar from './Components/SideBar/SideBar';
 function App() {
   return (
     <div className="App">
-      <h1>Hi welcome to the App!</h1>
       {/* <NavBar/> */}
       {/* <Home/> */}
       {/* <Equalizer/> */}
@@ -23,6 +23,7 @@ function App() {
       {/* <Otp/> */}
       {/* <ChangePass/> */}
       <SideBar/>
+      <Video/>
       {/* <Footer/> */}
     </div>
   );
