@@ -1,6 +1,7 @@
 import './App.css';
+import Equalizing from './Components/Equalizing/Equalizing';
 // import Account from './Components/Account/Account';
-import ChangePass from './Components/ChangePass/ChangePass';
+// import ChangePass from './Components/ChangePass/ChangePass';
 // import Equalizer from './Components/Equalizer/Equalizer';
 // import Footer from './Components/Footer/Footer';
 // import NewPass from './Components/ForgotPassword/NewPass/NewPass';
@@ -28,7 +29,8 @@ function App() {
       {/* <Account/> */}
       {/* <Video/> */}
       {/* <Footer/> */}
-      <ChangePass/>
+      {/* <ChangePass/> */}
+      <Equalizing/>
     </div>
   );
 }

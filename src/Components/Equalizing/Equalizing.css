@@ -1,0 +1,82 @@
+.equalizing{
+    background-color: rgba(51, 51, 51, .5);
+    background-image: url('https://specterr.b-cdn.net/bg-wave2.svg');
+    width: 1300px;
+    height: 700px;
+    margin-left: 200px;
+    padding-top: 60px;
+ 
+}
+
+.steps{
+
+      width: 40%;
+      margin-left: 400px;
+      display: flex;
+      color: white;
+      height: 30px;
+
+}
+
+.step-1{
+    border-radius: 20px;
+    width: 30px;
+    background-color: red;
+    border: none;
+}
+
+.h1-audio{
+    font-size: 1.5rem;
+    margin-left: 15px;
+}
+
+.vl {
+    border-left: 3px solid green;
+    height: 100px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+
+.h1-audio1{
+    font-size: 1.5rem;
+    margin-left: 25px;
+    margin-top: 35px;
+}
+
+.upl-btn{
+    height: 10%;
+    width: 200px;
+    background-color: rgba(37,37,37,.61);
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.upl-btn-con{
+    display: flex;
+    height: 30%;
+    color: rgb(224, 93, 93);
+    outline: none;
+    border: 2px solid rgb(224, 93, 93); /* Green */
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(37,37,37,.61);
+    cursor: pointer;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+    width: 100px;
+}
+
+.upl-h1{
+    font-size: 0.8rem;
+    padding-left: 10px;
+}
+
+.upl-btn-con:hover{
+  color:white;
+  border: 2px solid rgb(248, 72, 72);
+}
