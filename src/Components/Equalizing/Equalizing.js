@@ -20,6 +20,7 @@ function Equalizing() {
                             <h3 className="upl-h1">Upload Audio</h3>
                         </div>
                     </div>
+                    <input className="file" id="upload" type="file" />
                 </div>
                 <div className="steps2">
                     <button className="step-2">

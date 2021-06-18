@@ -68,6 +68,7 @@
     margin-right: 2rem;
     margin-top: 0.5rem;
     width: 125px;
+    position: relative;
 }
 
 .upl-h1{
@@ -98,3 +99,12 @@
   background-color: red;
   border: none;
 }
+
+.file{
+    color: black;
+    margin-right: 70px;
+    
+}
+
+  
+  

@@ -15,6 +15,8 @@ import SideBar from './Components/SideBar/SideBar';
 // import SignUp from './Components/SignUp/SignUp';
 
 function App() {
+
+  
   return (
     <div className="App">
       {/* <NavBar/> */}
